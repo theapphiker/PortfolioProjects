@@ -1,5 +1,7 @@
 # bloom_fair_temp
 Supporting data and materials used to analyze temperature differences during the Bloomsburg Fair.
+
+For a full-description of this project, please visit <a href="https://docs.google.com/document/d/1EgXy49VFbQbYndkj_xIKQ7LNoONspNVxyTB8Tv3cc3U/edit?usp=sharing">this link</a>.
 # Contents
 <b>/data folder</b>
 
