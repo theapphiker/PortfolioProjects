@@ -1,5 +1,10 @@
 The Movies database was created by Database Star. The database design and data can be found <a href='https://www.databasestar.com/sample-database-movies/'>here.</a>
 
+<b>/data folder</b>
+
+CSV files containing the movie table from the Movies database and the Consumer Price Index (CPI) data from the
+U.S. Bureau of Labor and Statistics.
+
 <b>Movie Portfolio Project - Data Exploration.sql</b>
 
 This project uses SQL to explore the Movies database and uses SQL queries to answer questions.
