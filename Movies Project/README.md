@@ -4,6 +4,6 @@ The Movies database was created by Database Star. The database design and data c
 
 This project uses SQL to explore the Movies database and uses SQL queries to answer questions.
 
-<b>Movie Correlation with Python.ipynb</b>
+<b>Adjusting Revenue for Inflation.ipynb</b>
 
-This project uses Python to explore which variables affect the revenue of movies. 
+This Jupyter Notebook displays the scripts used to adjust the revenue data for inflation. 
