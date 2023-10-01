@@ -16,3 +16,7 @@ This Jupyter Notebook displays the script used to adjust the revenue data for in
 <b>Movie Correlations with Python Presentation.pdf</b>
 
 PDF containg the final presentation of the project.
+
+<b>Movie Correlations with Python.ipynb</b>
+
+Jupyter Notebook used to analyze and plot the movie data while exploring some of the variables that affect movie revenue.
