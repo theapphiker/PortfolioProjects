@@ -15,6 +15,6 @@ Jupyter Notebook used to analyze and plot the temperature data for the Bloomsbur
 
 Jupyter Notebook used to clean the initial data derived from the National Climatic Data Center’s CDO repository.
 
-<b>Fair Weather Presentation</b>
+<b>Fair Weather Presentation.pdf</b>
 
 PDF containg the final presentation of the project.
