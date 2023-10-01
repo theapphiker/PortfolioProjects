@@ -11,4 +11,8 @@ This project uses SQL to explore the Movies database and uses SQL queries to ans
 
 <b>Adjusting Revenue for Inflation.ipynb</b>
 
-This Jupyter Notebook displays the scripts used to adjust the revenue data for inflation. 
+This Jupyter Notebook displays the scripts used to adjust the revenue data for inflation.
+
+<b>Movie Correlations with Python Presentation.pdf</b>
+
+PDF containg the final presentation of the project.
